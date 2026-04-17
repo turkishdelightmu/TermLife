@@ -271,7 +271,7 @@ Journal encryption and biometric logic may not be repurposed in apps that weaken
 ---
  
 <p align="center">
-  <code>user@life %</code> &nbsp;·&nbsp; built by Ilayda &nbsp;·&nbsp; terminal-inspired productivity
+  <code>user@life %</code> &nbsp;·&nbsp; built by Aisha &nbsp;·&nbsp; terminal-inspired productivity
 </p>
  
 <p align="center">
